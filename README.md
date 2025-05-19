@@ -1,6 +1,5 @@
 # AHB-To-APB-Bridge-Verification-IP
 
-## Overview
 This project implements a Verification IP (VIP) for an AHB to APB Bridge, designed using SystemVerilog and verified with UVM (Universal Verification Methodology). The bridge facilitates seamless communication between the high-performance AHB bus and the low-power APB bus.
 
 ## Key Features
