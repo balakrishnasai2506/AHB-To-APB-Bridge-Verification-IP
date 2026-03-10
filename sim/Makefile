@@ -1,4 +1,4 @@
-#Makefile for UVM Testbench - Lab 10
+#Makefile for UVM Testbench - AHB2APB BRIDGE
 
 # SIMULATOR = Questa for Mentor's Questasim
 # SIMULATOR = VCS for Synopsys's VCS
@@ -115,3 +115,4 @@ clean_VCS:
 	clear
 
 # ----------------------------- END of Definitions for Synopsys's VCS Specific Targets -------------------------------#
+
